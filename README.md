@@ -8,6 +8,8 @@ The goal is to classify tomatoes into three ripeness stages:
 * Turning
 * Ripe
 
+![Tomato ripeness examples](tomato_examples.png)
+
 I made this project to practice the basic steps of image classification using a Convolutional Neural Network (CNN) with PyTorch.
 
 ## Dataset
@@ -161,7 +163,6 @@ In the future, I would like to try:
 
 * creating a confusion matrix
 * testing the model with my own tomato photos
-* using data augmentation
 * running a smaller model on Arduino or another edge device
 
 ## Reference
